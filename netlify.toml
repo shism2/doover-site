@@ -1,0 +1,8 @@
+# Netlify config for the Do Over landing site.
+# publish: the static site lives in site/
+# functions: submission-created.js auto-fires on every form submission (Netlify trigger name).
+[build]
+  publish = "site"
+
+[functions]
+  directory = "netlify/functions"
