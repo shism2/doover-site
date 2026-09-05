@@ -11,6 +11,8 @@ What happens next: invites go out in small waves, in waitlist order, starting wi
 
 Your founding price ($49/yr) is locked from today and never rises while you stay.
 
+One ask, if you have 30 seconds: reply to this email with the exact moment your last planner died for you. Not a review, just the moment. Real stories become the acceptance tests this thing has to pass before it ships.
+
 Change your mind, or want your email gone entirely? Reply "delete" and it's done. No hard feelings, and honestly, no surprise. Abandoning things is kind of our whole demographic.
 
 Julio
